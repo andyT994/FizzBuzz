@@ -1,0 +1,15 @@
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csprojAssemblyReference.cache
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache
